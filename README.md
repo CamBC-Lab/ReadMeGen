@@ -1,5 +1,5 @@
 
-# ReadMe Generator
+# Filler Title
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
@@ -13,25 +13,18 @@
 - [Questions](#questions)
 
 ## Description
-This project is intend to help its users create a quick and professonial README for a new project
+A very descriptive description
 
 ## Installation
-Simply download both the index.js and package.json files to get started.
+simply navigte to the github to acquire the documents.
 
 ## Usage
-First make sure you have node installed on your pc and command prompt or applications similar to it also installed. Then after you have node and a command prompt application navigate to where you downloaded the files and open the file directory with command prompt. Within the the file directory type 'node index.js' and the application should fire off and begin asking you questions for creating the README.
+use a command line prompt such as the showcased here.
 
 ## Contribution
-Make sure all code presented pertains to the overall usage of creating README's for the user and dont commit changes with broken code keep up the industry standard as cited in https://www.contributor-covenant.org/
+make sure all code is clean and works.
 
 ## Tests
-Dont fret if your lost on what to do with your project if u cant answer any of the questions presented by this applicaiton simply skip them and come back another time.
+simply type node index.js into the command line in the file directory with index.js inside it.
 
-## License
-## License
-This project is licensed under the MIT license.
-
-## Questions
-## Questions
-For any questions, please contact me via [GitHub](https://github.com/CamBC-Lab or my email branden.camilo@yahoo.com).
    

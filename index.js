@@ -61,6 +61,8 @@ function writeToFile(fileName, data) {
     );
 }
 
+
+// Adds the license bade
 function getLicenseBadge(license) {
     if (license === 'None') return '';
     return `![License](https://img.shields.io/badge/License-${license.replace(' ', '%20')}-blue.svg)`;
@@ -70,8 +72,8 @@ function getLicenseBadge(license) {
 function init() {
     inquirer.prompt(questions).then((answers) => {
         const licenseBadge = getLicenseBadge(answers.license);
-        const licenseSection = answers.license !== 'None' ? `## License\nThis project is licensed under the ${answers.license} license.` : '';
-        const questionsSection = `## Questions\nFor any questions, please contact me via [GitHub](https://github.com/${answers.github} or my email ${answers.email}).`;
+        const licenseSection = answers.license !== 'None' ? `This project is licensed under the ${answers.license} license.` : '';
+        const questionsSection = `For any questions, please contact me via [GitHub](https://github.com/${answers.github} or my email ${answers.email}).`;
         const readmeContent = `
 # ${answers.title}
 
