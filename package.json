@@ -1,15 +1,23 @@
 {
   "name": "static-site",
   "version": "1.0.0",
-  "description": "",
+  "description": "ReadMeGen",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "CamBC-LAb",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "8.2.4"
-  }
+    "inquirer": "^8.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamBC-Lab/ReadMeGen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CamBC-Lab/ReadMeGen/issues"
+  },
+  "homepage": "https://github.com/CamBC-Lab/ReadMeGen#readme"
 }
