@@ -1,7 +1,7 @@
 
-# Filler Title
+# README generator
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
+
 
 ## Table of Contents
 - [Description](#description)
@@ -13,18 +13,23 @@
 - [Questions](#questions)
 
 ## Description
-A very descriptive description
+This program was made to help users make a starter README for their projects.
 
 ## Installation
-simply navigte to the github to acquire the documents.
+Simply download the files showcased on the git hub repository and make sure their unzipped and placed inside a folder.
 
 ## Usage
-use a command line prompt such as the showcased here.
+Open the file directory where the index.js is located with command prompt, then type in node index.js to start the program. A series of questions should appear asking the user information to help make the README file. After its done the a README file should be in the same file directory as the index.js with the information the user typed in.
 
 ## Contribution
-make sure all code is clean and works.
+Make sure all code is clean and is working before commiting to the page.
 
 ## Tests
-simply type node index.js into the command line in the file directory with index.js inside it.
+After typing node index.js in the command line you are unsure of what to type for the README simply press enter to skip anything your unsure of.
 
+## License
+
+
+## Questions
+For any questions, please contact me via [GitHub](https://github.com/CamBC-Lab or my email branden.camilo@yahoo.com).
    
