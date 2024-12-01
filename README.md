@@ -32,4 +32,7 @@ After typing node index.js in the command line you are unsure of what to type fo
 
 ## Questions
 For any questions, please contact me via [GitHub](https://github.com/CamBC-Lab or my email branden.camilo@yahoo.com).
+
+## Video-Link
+https://drive.google.com/file/d/1st4cJi-WQoh_Of3ZqgSHlJneule8kClb/view?usp=sharing
    
